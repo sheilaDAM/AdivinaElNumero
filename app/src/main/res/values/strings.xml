@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AdivinaElNúmero</string>
+    <string name="numero_1">1</string>
+    <string name="numero_2">2</string>
+    <string name="numero_3">3</string>
+    <string name="numero_4">4</string>
+    <string name="numero_5">5</string>
+    <string name="numero_6">6</string>
+    <string name="numero_7">7</string>
+    <string name="numero_8">8</string>
+    <string name="numero_9">9</string>
+    <string name="numero_10">10</string>
+
+
+</resources>
